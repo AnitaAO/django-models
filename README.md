@@ -1,2 +1,2 @@
 # django-models
-https://github.com/AnitaAO/django-models
+https://anitaao.github.io/django-models/
